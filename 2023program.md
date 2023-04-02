@@ -89,7 +89,7 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 
 #### 6:30 pm 
 * **Conference Dinner** 
-    Haraheri Eat Bar & Patio
+-Haraheri Eat Bar & Patio
    *Click [here](https://goo.gl/maps/UyyDR6V6TXzPB6B59) to see the location on Google map*
 
 ## Saturday,  May 6 
