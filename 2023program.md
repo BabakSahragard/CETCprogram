@@ -46,7 +46,7 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
      [Rahul Deb](https://www.economics.utoronto.ca/debrahul/) (University of Toronto), [Mallesh Pai](http://www.malleshmpai.com)* (Rice University), [Anne-Katrin Roesler](https://sites.google.com/site/akroesler/) (University of Toronto)
 
 #### 11:15 am – 11:30 am
-* ** Break**
+* **Break**
 
 #### Session C:  11:30 am - 12:30 pm 
 
