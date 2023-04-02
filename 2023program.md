@@ -87,7 +87,7 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 2. #####  Randomization and Linearity in the Robust Principal-Agent Problem
      [Ashwin Kambhampati](http://ashwinkambhampati.com/)* (University of Pennsylvania), [Juuso Toikka](https://bepp.wharton.upenn.edu/profile/toikka/) (University of Pennsylvania), [Rakesh Vohra](https://economics.sas.upenn.edu/people/rakesh-vohra) (University of Pennsylvania)
 
-#### 6:00 pm 
+#### 6:30 pm 
 * **Conference Dinner** 
     Haraheri Eat Bar & Patio
    *Click [here](https://goo.gl/maps/UyyDR6V6TXzPB6B59) to see the location on Google map*
@@ -179,11 +179,19 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
       [Rene Kirkegaard](http://www.renekirkegaard.com/)* (University of Guelph)
   3. ##### Strategic Evidence Disclosure in Networks and Equilibrium Discrimination
        [Leonie Baumann](https://sites.google.com/site/leoniebaumann/home) (McGill University), [Rohan Dutta](https://sites.google.com/site/rohandutta/)* (McGill University)
-
-
-
-
 **Presenter of paper.*
+
+----
+**Hotels in Vancouver in May are expensive**. A selection of hotels that are close to the conference site at [SFU Harbor Centre](https://goo.gl/maps/i51b9tC2tQcPP32Q8) and quoted rates  now under or close to $300 US per night for the period May 4-7 were
+[Listel](https://www.thelistelhotel.com)
+[Sandman](https://www.sandmanhotels.com/vancouver-downtown?gclid=Cj0KCQjwz6ShBhCMARIsAH9A0qVAP86BLOa4uDHIxEdAYvVNCrI2DyyZ66M9SFwpPMzJZpD77ZeqgCAaAtTuEALw_wcB)
+[Sutton Place](https://www.suttonplace.com/vancouver?gclid=Cj0KCQjwz6ShBhCMARIsAH9A0qUgrNXLEvRcBHl-GWPX2dyZyhQgfavCzrTbbKASa4AD7OTyn6kEa9oaArqiEALw_wcB)
+[Sheraton Wall Centre](https://www.marriott.com/en-us/hotels/yvrws-sheraton-vancouver-wall-centre/overview/)
+[Days Inn](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjkmMSDsYz-AhXsDK0GHbtGApQYABABGgJwdg&ae=2&ohost=www.google.com&cid=CAESauD21ClfXB8D99ZAJO3wDP9Crsi_Tt3VbGbBIde2414skSlMNLaOkUqlQAalqotpv4VMyyLpON-rwYuucAYsvOkx2YrczPScdprZWpCAZlKF2yLt9I0dyJWWL5SsI3zWBrmnaW3ZVBxdqkQ&sig=AOD64_2dr8mNSeQ3rTrDtd69qOl0xcR4qw&q&adurl&ved=2ahUKEwiysLyDsYz-AhWiIjQIHbyTCZsQ0Qx6BAgGEAE&nis=2&dct=1)
+[Holiday Inn](https://www.ihg.com/holidayinnexpress/hotels/us/en/burnaby/yvrbm/hoteldetail)
+[Quality Inn](https://www.qualityinndowntownvancouver.com)
+**It would be a good idea to make your booking ASAP.**
+
 
 ----
 **Organizing committee:**
