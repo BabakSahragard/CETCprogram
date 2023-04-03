@@ -87,10 +87,6 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 2. #####  Randomization and Linearity in the Robust Principal-Agent Problem
      [Ashwin Kambhampati](http://ashwinkambhampati.com/)* (University of Pennsylvania), [Juuso Toikka](https://bepp.wharton.upenn.edu/profile/toikka/) (University of Pennsylvania), [Rakesh Vohra](https://economics.sas.upenn.edu/people/rakesh-vohra) (University of Pennsylvania)
 
-#### 6:30 pm 
-* **Conference Dinner** 
-    Haraheri Eat Bar & Patio
-   *Click [here](https://goo.gl/maps/UyyDR6V6TXzPB6B59) to see the location on Google map*
 
 ## Saturday,  May 6 
 
@@ -157,6 +153,12 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 
 2. #####   Who Controls the Agenda Controls the Polity
       [S. Nageeb Ali](https://sites.google.com/site/nageeb/) (Pennsylvania State University) , [B. Douglas Bernheim](https://bernheim.people.stanford.edu/) (Stanford University) , [Alexander W. Bloedel](https://sites.google.com/site/alexanderbloedel/home)* (UCLA) , [Silvia Console Battilana](https://www.auctionomics.com/dr-silvia-console-battilana) (Auctionomics)
+
+
+#### 6:30 pm 
+* **Conference Dinner** 
+    Haraheri Eat Bar & Patio
+   *Click [here](https://goo.gl/maps/UyyDR6V6TXzPB6B59) to see the location on Google map*
 
 ## Sunday,  May 7
 
