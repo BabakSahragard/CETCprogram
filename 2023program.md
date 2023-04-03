@@ -14,7 +14,7 @@
 <div  class="fb-share-button"  data-href="https://www.economics.utoronto.ca/conferences/index.php/cetc/2023"  data-layout=""  data-size=""><a  target="_blank"  href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.economics.utoronto.ca%2Fconferences%2Findex.php%2Fcetc%2F2023&amp;src=sdkpreparse"  class="fb-xfbml-parse-ignore">Share</a></div>
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Canadian Economic Theory Conference 2023 program available at" data-url="https://www.economics.utoronto.ca/conferences/index.php/cetc/2023" data-hashtags="cetc2023" data-show-count="false">Tweet</a> Official hashtag: #cetc2023
 
-This is the official program for the 2023 Canadian Economic Theory Conference, organized by Simon Fraser University and the University of British Cloumbia.
+This is the official program for the 2023 Canadian Economic Theory Conference, organized by Simon Fraser University and the University of British Columbia.
 
 
 
@@ -29,7 +29,7 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 #### Session A:  9:00 am - 10:00 am 
 
 1. #####  Blackwell Correlated Equilibrium 
-      [Tommaso Denti](https://sites.google.com/site/tommasojdenti/home)* (Cornel University) , [Doron Ravid](https://sites.google.com/site/ravidd/) (University of Chicago)
+      [Tommaso Denti](https://sites.google.com/site/tommasojdenti/home)* (Cornell University) , [Doron Ravid](https://sites.google.com/site/ravidd/) (University of Chicago)
 
 2. #####  Bayes = Blackwell, Almost
       [Mark Whitmeyer](https://sites.google.com/site/markwhitmeyer/)* (Arizona State University), [Nour Chalhoub](https://search.asu.edu/profile/3452319) (Arizona State University)
