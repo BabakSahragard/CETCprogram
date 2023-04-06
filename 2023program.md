@@ -170,10 +170,10 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 2. ##### Procedural Expected Utility
       [Mu Zhang](https://www.mu-zhang.com/)* (University of Michigan)
 
-#### 10:00 am – 10:15 am
+#### 10:00 am – 10:30 am
 * **Break**
 
-#### Session N:  10:15 am - 11:45 am 
+#### Session N:  10:30 am - 11:30 am 
 1. ##### Non-Fundamental Volatility in Financial Markets
       [Keisuke Teeple](http://keisuketeeple.wordpress.com)* (University of Waterloo)
 
