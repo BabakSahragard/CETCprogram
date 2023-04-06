@@ -30,7 +30,7 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 
 
 1. ##### Strategic Evidence Disclosure in Networks and Equilibrium Discrimination
-       [Leonie Baumann](https://sites.google.com/site/leoniebaumann/home) (McGill University), [Rohan Dutta](https://sites.google.com/site/rohandutta/)* (McGill University)
+     [Leonie Baumann](https://sites.google.com/site/leoniebaumann/home) (McGill University), [Rohan Dutta](https://sites.google.com/site/rohandutta/)* (McGill University)
 
 2. #####  Bayes = Blackwell, Almost
       [Mark Whitmeyer](https://sites.google.com/site/markwhitmeyer/)* (Arizona State University), [Nour Chalhoub](https://search.asu.edu/profile/3452319) (Arizona State University)
