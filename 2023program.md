@@ -148,8 +148,8 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 #### 4:15 pm – 4:30 pm
 * **Break**
  
-#### Session L: 4:30 pm - 5:30 pm 
-1. ##### On Political Spectra
+#### Session L: 4:30 pm - 5:00 pm 
+1. ##### On Political Spectra [[PDF]](https://github.com/BabakSahragard/CETCprogram/blob/main/Condorcet_original.pdf)
       [Qinggong Wu](http://wqg.weebly.com/)* (Hong Kong University of Science and Technology) , [Xingye Wu](http://wuxy.weebly.com/) (Tsinghua University)
 
 
