@@ -81,7 +81,7 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 #### 4:15 pm – 4:30 pm
 * **Break**
  
-#### Session F: 4:30 pm - 5:30 pm 
+#### Session F: 4:30 pm - 5:00 pm 
 1. #####  Indicator Choice in Pay-for-Performance 
       [Ali Shourideh](http://www.shourideh.com)*(Tepper School of Business), [Majid Mahzoon](https://www.majidmahzoon.com/) (Tepper School of Business), [Ariel Zetlin-Jones](https://www.andrew.cmu.edu/user/azj/)(Tepper School of Business)
 
