@@ -97,7 +97,7 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 
 #### Session G:  9:00 am - 10:00 am 
 
-1. ##### Endogenous Criteria for Success
+1. ##### Endogenous Criteria for Success [[PDF]](https://rene-kirkegaard.squarespace.com/s/CriteriaJuly2022.pdf)
       [Rene Kirkegaard](http://www.renekirkegaard.com/)* (University of Guelph)
 2. #####  Strategy-proof Multi-Issue Mediation: An Application to Online Dispute Resolution
       [Selcuk Ozyurt](http://www.selcukozyurt.com)* (York University), [Onur Kesten](https://www.sydney.edu.au/arts/about/our-people/academic-staff/onur-kesten.html) (The University of Sydney)
@@ -168,7 +168,7 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 #### Session M:  9:00 am - 10:00 am 
 1. ##### Marginal Stochastic Choice
       [Yaron Azrieli](http://web.econ.ohio-state.edu/azrieli/)* (Ohio State University), [John Rehbeck](https://sites.google.com/site/johnrehbeck/) (Ohio State University)
-2. ##### Procedural Expected Utility
+2. ##### Procedural Expected Utility [[PDF]](https://github.com/BabakSahragard/CETCprogram/blob/main/Procedural_EU_0314.pdf)
       [Mu Zhang](https://www.mu-zhang.com/)* (University of Michigan)
 
 #### 10:00 am – 10:30 am
