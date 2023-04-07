@@ -107,7 +107,7 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 
 #### Session H:  10:15 am - 11:15 am 
 
-1. #####  Optimal Insurance: Dual Utility, Random Losses and Adverse Selection
+1. #####  Optimal Insurance: Dual Utility, Random Losses and Adverse Selection [[PDF]](https://github.com/BabakSahragard/CETCprogram/blob/main/Optimal%20Insurance.pdf))
       [Alex Gershkov](https://pluto.huji.ac.il/~alexg/) (Hebrew University of Jerusalem), [Benny Moldovanu](https://www.econ.uni-bonn.de/micro/en/moldovanu) (University of Bonn) , [Philipp Strack](https://www.philippstrack.com/) (Yale University), [Mengxi Zhang](https://sites.google.com/bu.edu/mengxizhang)* (University of Bonn)
 
 2. #####  Common Agency with Non-Delegation or Imperfect Commitment [[PDF]](https://socserv.socsci.mcmaster.ca/han/research/CM-2022-06-15.pdf)
