@@ -121,7 +121,7 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 1. ##### Rational Inattention and Endogenous Volatility in Games: A Large Deviation Approach
      [Tetsuya Hoshino](https://www.tetsuyahoshino.com)* (ITAM), [Takashi Ui](https://sites.google.com/site/takashiui/) ( Kanagawa University)
 
-2. #####  Competing to Commit: Markets with Rational Inattention
+2. #####  Competing to Commit: Markets with Rational Inattention [[PDF]](https://github.com/BabakSahragard/CETCprogram/blob/main/Cusumano_Fabbri_Pieroth.pdf)
     [Carlo Maria Cusumano](https://www.carlocusumano.org/) (Yale University), [Francesco Fabbri](https://www.francesco-fabbri.com/)* (Princeton University ), [Ferdinand Pieroth](https://www.ferdinandpieroth.com/) (Yale University)
 
 #### 12:30 pm – 2:00 pm
