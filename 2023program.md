@@ -66,7 +66,7 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 1. #####  A comprehensive revealed preference approach to approximate utility maximisation
       [Pawel Karol Dziewulski](http://pawel-dziewulski.com)* (University of Sussex)
 
-2. #####  A Theory of Revealed Indirect Preference
+2. #####  A Theory of Revealed Indirect Preference [[PDF]](https://jiangtaoli.weebly.com/uploads/6/4/8/1/6481232/trip_submitted.pdf)
       [Gaoji Hu](https://hugaoji.weebly.com/) (Shanghai University of Finance and Economics), [Jiangtao Li](https://jiangtaoli.weebly.com/)* (Singapore Management University), [John Quah](https://www.johnquah.com/) (National University of Singapore), [Rui Tang](https://ruitangeconomics.weebly.com/) (Hong Kong University of Science and Technology)
 
 #### 3:00 pm – 3:15 pm
@@ -99,7 +99,7 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 
 1. ##### Endogenous Criteria for Success [[PDF]](https://rene-kirkegaard.squarespace.com/s/CriteriaJuly2022.pdf)
       [Rene Kirkegaard](http://www.renekirkegaard.com/)* (University of Guelph)
-2. #####  Strategy-proof Multi-Issue Mediation: An Application to Online Dispute Resolution
+2. #####  Strategy-proof Multi-Issue Mediation: An Application to Online Dispute Resolution [[PDF]](https://www.selcukozyurt.com/_files/ugd/56c471_9d3c348117c9482bade5966f6ca2332c.pdf)
       [Selcuk Ozyurt](http://www.selcukozyurt.com)* (York University), [Onur Kesten](https://www.sydney.edu.au/arts/about/our-people/academic-staff/onur-kesten.html) (The University of Sydney)
 
 #### 10:00 am – 10:15 am
