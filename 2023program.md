@@ -175,10 +175,10 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 * **Break**
 
 #### Session N:  10:30 am - 11:30 am 
-1. ##### Non-Fundamental Volatility in Financial Markets
+1. ##### Non-Fundamental Volatility in Financial Markets [[PDF]](https://keisuketeeple.files.wordpress.com/2022/11/non_fundamental_vol.pdf)
       [Keisuke Teeple](http://keisuketeeple.wordpress.com)* (University of Waterloo)
 
-2. #####  Blackwell Correlated Equilibrium [[PDF]](https://keisuketeeple.files.wordpress.com/2022/11/non_fundamental_vol.pdf)
+2. #####  Blackwell Correlated Equilibrium 
       [Tommaso Denti](https://sites.google.com/site/tommasojdenti/home)* (Cornell University) , [Doron Ravid](https://sites.google.com/site/ravidd/) (University of Chicago)      
 
 **Presenter of paper.*
