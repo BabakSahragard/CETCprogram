@@ -34,7 +34,7 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
      [Leonie Baumann](https://sites.google.com/site/leoniebaumann/home) (McGill University), [Rohan Dutta](https://sites.google.com/site/rohandutta/)* (McGill University)
 
 2. #####  Bayes = Blackwell, Almost [[PDF]](https://whitmeyerhome.files.wordpress.com/2023/03/bayes___blackwell_v18.pdf)
-      [Mark Whitmeyer](https://sites.google.com/site/markwhitmeyer/)* (Arizona State University), [Nour Chalhoub](https://search.asu.edu/profile/3452319) (Arizona State University)
+      [Mark Whitmeyer](https://sites.google.com/site/markwhitmeyer/)* (Arizona State University)
 
 #### 10:00 am – 10:15 am
 * **Break**
@@ -166,7 +166,7 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 * **Coffee**
 
 #### Session M:  9:00 am - 10:00 am 
-1. ##### Marginal Stochastic Choice
+1. ##### Marginal Stochastic Choice [[PDF]]( https://drive.google.com/file/d/1stCQfvL1Bm7CaOcbBrGTIQs7zgsCkhd9/view)
       [Yaron Azrieli](http://web.econ.ohio-state.edu/azrieli/)* (Ohio State University), [John Rehbeck](https://sites.google.com/site/johnrehbeck/) (Ohio State University)
 2. ##### Procedural Expected Utility [[PDF]](https://github.com/BabakSahragard/CETCprogram/blob/main/Procedural_EU_0314.pdf)
       [Mu Zhang](https://www.mu-zhang.com/)* (University of Michigan)
@@ -178,7 +178,7 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 1. ##### Non-Fundamental Volatility in Financial Markets
       [Keisuke Teeple](http://keisuketeeple.wordpress.com)* (University of Waterloo)
 
-2. #####  Blackwell Correlated Equilibrium 
+2. #####  Blackwell Correlated Equilibrium [[PDF]](https://keisuketeeple.files.wordpress.com/2022/11/non_fundamental_vol.pdf)
       [Tommaso Denti](https://sites.google.com/site/tommasojdenti/home)* (Cornell University) , [Doron Ravid](https://sites.google.com/site/ravidd/) (University of Chicago)      
 
 **Presenter of paper.*
