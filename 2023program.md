@@ -5,6 +5,7 @@
 
 
 # Simon Fraser University, May 5-7, 2023 
+###### Room 7000, Harbour Centre, 515 W Hastings St, Vancouver
 
 
 
