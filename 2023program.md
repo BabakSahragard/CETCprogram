@@ -1,21 +1,14 @@
 <meta name="twitter:card" content="summary_large_image" />
-<meta property="og:url" content="https://www.economics.utoronto.ca/conferences/index.php/cetc/2023 />
 <meta property="og:title" content="CETC 2023 Program" />
 <meta property="og:description" content="Canadian Economic Theory Conference 2023 Program | May 5th - May 7th | Hosted by Simon Fraser University" />
 <meta property="og:image" content="https://raw.githubusercontent.com/michaelpetersubc/cetc/master/2020/CETC.png" />
 
 
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v6.0"></script>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+# Simon Fraser University, May 5-7, 2023 
 
-# CETC Conference Program  
 
-<div  class="fb-share-button"  data-href="https://www.economics.utoronto.ca/conferences/index.php/cetc/2023"  data-layout=""  data-size=""><a  target="_blank"  href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.economics.utoronto.ca%2Fconferences%2Findex.php%2Fcetc%2F2023&amp;src=sdkpreparse"  class="fb-xfbml-parse-ignore">Share</a></div>
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Canadian Economic Theory Conference 2023 program available at" data-url="https://www.economics.utoronto.ca/conferences/index.php/cetc/2023" data-hashtags="cetc2023" data-show-count="false">Tweet</a> Official hashtag: #cetc2023
 
 This is the official program for the 2023 Canadian Economic Theory Conference, organized by Simon Fraser University and the University of British Columbia.
-
 
 
 
@@ -27,6 +20,7 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 * **Welcome and Coffee**
 
 #### Session A:  9:00 am - 10:00 am 
+#####Chair: Arthur Robson, SFU
 
 
 1. ##### Strategic Evidence Disclosure in Networks and Equilibrium Discrimination [[PDF]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4305083)
@@ -40,6 +34,7 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 * **Break**
 
 #### Session B:  10:15 am - 11:15 am 
+#####Chair: Arthur Robson, SFU
 
 1. #####   Comparative statics with adjustment costs and the le Chatelier principle
    [Eddie Dekel](https://sites.google.com/site/eddiedekelsite/) (Northwestern University ), [John K.-H. Quah](https://www.johnquah.com/)* (Johns Hopkins University, National University of Singapore),  [Ludvig Sinander](https://www.ludvigsinander.net/) (Oxford & Nuffield College.)
@@ -51,6 +46,7 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 * **Break**
 
 #### Session C:  11:30 am - 12:30 pm 
+#####Chair: Sergei Severinov, UBC
 
 1. #####  Collusion-proof dynamic mechanisms
       [Heng Liu](http://hengliu.weebly.com)* (University of Michigan)
@@ -62,6 +58,7 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 * **Lunch**
 
 #### Session D: 2:00 pm - 3:00 pm 
+#####Chair: Sergei Severinov, UBC
 
 1. #####  A comprehensive revealed preference approach to approximate utility maximisation
       [Pawel Karol Dziewulski](http://pawel-dziewulski.com)* (University of Sussex)
@@ -73,6 +70,7 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 * **Break**
 
 #### Session E: 3:15 pm - 4:15 pm 
+#####Chair: Lucas Herrenbrueck, SFU
 1. ##### Rational Exuberance and Bubbles
      [Yu Awaya](https://sites.google.com/site/yuawaya/home)* (University of Rochester), [Vijay Krishna](https://sites.google.com/site/vjkrishna/) (Penn State University)
 
@@ -83,6 +81,7 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 * **Break**
  
 #### Session F: 4:30 pm - 5:00 pm 
+#####Chair: Lucas Herrenbrueck, SFU
 1. #####  Indicator Choice in Pay-for-Performance 
       [Ali Shourideh](http://www.shourideh.com)*(Tepper School of Business), [Majid Mahzoon](https://www.majidmahzoon.com/) (Tepper School of Business), [Ariel Zetlin-Jones](https://www.andrew.cmu.edu/user/azj/)(Tepper School of Business)
 
@@ -96,6 +95,7 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 * **Coffee**
 
 #### Session G:  9:00 am - 10:00 am 
+#####Chair: Wei Li, UBC
 
 1. ##### Endogenous Criteria for Success [[PDF]](https://rene-kirkegaard.squarespace.com/s/CriteriaJuly2022.pdf)
       [Rene Kirkegaard](http://www.renekirkegaard.com/)* (University of Guelph)
@@ -106,6 +106,7 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 * **Break**
 
 #### Session H:  10:15 am - 11:15 am 
+#####Chair: Wei Li, UBC
 
 1. #####  Optimal Insurance: Dual Utility, Random Losses and Adverse Selection [[PDF]](https://github.com/BabakSahragard/CETCprogram/blob/main/Optimal%20Insurance.pdf))
       [Alex Gershkov](https://pluto.huji.ac.il/~alexg/) (Hebrew University of Jerusalem), [Benny Moldovanu](https://www.econ.uni-bonn.de/micro/en/moldovanu) (University of Bonn) , [Philipp Strack](https://www.philippstrack.com/) (Yale University), [Mengxi Zhang](https://sites.google.com/bu.edu/mengxizhang)* (University of Bonn)
@@ -117,6 +118,7 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 * **Break**
 
 #### Session I:  11:30 am - 12:30 pm 
+#####Chair: Farinha Luz, UBC
 
 1. ##### Rational Inattention and Endogenous Volatility in Games: A Large Deviation Approach
      [Tetsuya Hoshino](https://www.tetsuyahoshino.com)* (ITAM), [Takashi Ui](https://sites.google.com/site/takashiui/) ( Kanagawa University)
@@ -128,17 +130,19 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 * **Lunch**
 
 #### Session J: 2:00 pm - 3:00 pm 
+#####Chair: Farinha Luz, UBC
 
 1. #####  Effective Communication in Cheap-Talk Games 
       [Sidartha Gordon](https://sites.google.com/site/sidarthagordon/) ( Université Paris-Dauphine) , [Navin Kartik](http://www.columbia.edu/~nk2339/) (Columbia University) ,[Melody Lo](https://sites.google.com/view/melodylo/home)* (National Taiwan University), [Wojciech Olszewski](https://sites.northwestern.edu/wol737/home/)(Northwestern University), [Joel Sobel](https://econweb.ucsd.edu/~jsobel/) (UC San Diego)
 
-2. ##### Information Design in Cheap Talk
+2. ##### Information Design in Cheap Talk [[PDF]](https://www.qianjunlyu.com/uploads/1/2/2/7/122704715/red_17.pdf)
       [Qianjun LYU](https://www.qianjunlyu.com)* (University of Bonn), [Wing Suen](https://www4.fbe.hku.hk/~wsuen/) (University of Hong Kong)
 
 #### 3:00 pm – 3:15 pm
 * **Break**
 
 #### Session K: 3:15 pm - 4:15 pm 
+#####Chair: Li Hao, UBC
 1. #####   Who Controls the Agenda Controls the Polity
       [S. Nageeb Ali](https://sites.google.com/site/nageeb/) (Pennsylvania State University) , [B. Douglas Bernheim](https://bernheim.people.stanford.edu/) (Stanford University) , [Alexander W. Bloedel](https://sites.google.com/site/alexanderbloedel/home)* (UCLA) , [Silvia Console Battilana](https://www.auctionomics.com/dr-silvia-console-battilana) (Auctionomics)
 
@@ -148,10 +152,12 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 #### 4:15 pm – 4:30 pm
 * **Break**
  
-#### Session L: 4:30 pm - 5:00 pm 
+#### Session L: 4:30 pm - 5:30 pm 
+#####Chair: Li Hao, UBC
 1. ##### On Political Spectra [[PDF]](https://github.com/BabakSahragard/CETCprogram/blob/main/Condorcet_original.pdf)
       [Qinggong Wu](http://wqg.weebly.com/)* (Hong Kong University of Science and Technology) , [Xingye Wu](http://wuxy.weebly.com/) (Tsinghua University)
-
+2. ##### Dominance and Optimality [[PDF]](https://github.com/BabakSahragard/CETCprogram/blob/main/Draft7.pdf)
+      [Xienan Cheng](https://sites.google.com/view/xienan-cheng)(University of Michigan), [Tilman Borgers](http://www-personal.umich.edu/~tborgers/)*(University of Michigan)
 
 
 
@@ -166,6 +172,7 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 * **Coffee**
 
 #### Session M:  9:00 am - 10:00 am 
+#####Chair: Shih En Lu, SFU
 1. ##### Marginal Stochastic Choice [[PDF]]( https://drive.google.com/file/d/1stCQfvL1Bm7CaOcbBrGTIQs7zgsCkhd9/view)
       [Yaron Azrieli](http://web.econ.ohio-state.edu/azrieli/)* (Ohio State University), [John Rehbeck](https://sites.google.com/site/johnrehbeck/) (Ohio State University)
 2. ##### Procedural Expected Utility [[PDF]](https://github.com/BabakSahragard/CETCprogram/blob/main/Procedural_EU_0314.pdf)
@@ -175,6 +182,7 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 * **Break**
 
 #### Session N:  10:30 am - 11:30 am 
+#####Chair: Shih En Lu, SFU
 1. ##### Non-Fundamental Volatility in Financial Markets [[PDF]](https://keisuketeeple.files.wordpress.com/2022/11/non_fundamental_vol.pdf)
       [Keisuke Teeple](http://keisuketeeple.wordpress.com)* (University of Waterloo)
 
