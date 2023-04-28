@@ -135,7 +135,7 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
       [S. Nageeb Ali](https://sites.google.com/site/nageeb/) (Pennsylvania State University) , [B. Douglas Bernheim](https://bernheim.people.stanford.edu/) (Stanford University) , [Alexander W. Bloedel](https://sites.google.com/site/alexanderbloedel/home)* (UCLA) , [Silvia Console Battilana](https://www.auctionomics.com/dr-silvia-console-battilana) (Auctionomics)
 
 2. #####  Reputation Effects under Short Memories
-         [Harry PEI](https://sites.northwestern.edu/harrypei/research/)* (Northwestern University) 
+      [Harry PEI](https://sites.northwestern.edu/harrypei/research/)* (Northwestern University) 
 
 #### 4:15 pm – 4:30 pm
 * **Break**
@@ -144,7 +144,7 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 1. ##### On Political Spectra [[PDF]](https://github.com/BabakSahragard/CETCprogram/blob/main/Condorcet_original.pdf)
       [Qinggong Wu](http://wqg.weebly.com/)* (Hong Kong University of Science and Technology) , [Xingye Wu](http://wuxy.weebly.com/) (Tsinghua University)
 2. ##### Strategic Evidence Disclosure in Networks and Equilibrium Discrimination [[PDF]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4305083)
-        [Leonie Baumann](https://sites.google.com/site/leoniebaumann/home) (McGill University), [Rohan Dutta](https://sites.google.com/site/rohandutta/)* (McGill University)
+     [Leonie Baumann](https://sites.google.com/site/leoniebaumann/home) (McGill University), [Rohan Dutta](https://sites.google.com/site/rohandutta/)* (McGill University)
 
 
 
