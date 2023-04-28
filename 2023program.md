@@ -4,8 +4,8 @@
 <meta property="og:image" content="https://raw.githubusercontent.com/michaelpetersubc/cetc/master/2020/CETC.png" />
 
 
-# Simon Fraser University, May 5-7, 2023 
-###### Room 7000, Harbour Centre, 515 W Hastings St, Vancouver 
+# Simon Fraser University, May 5-7, 2023   ###### Room 7000, Harbour Centre, 515 W Hastings St, Vancouver
+ 
 
 
 
