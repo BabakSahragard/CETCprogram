@@ -4,7 +4,8 @@
 <meta property="og:image" content="https://raw.githubusercontent.com/michaelpetersubc/cetc/master/2020/CETC.png" />
 
 
-# Simon Fraser University, May 5-7, 2023   ###### Room 7000, Harbour Centre, 515 W Hastings St, Vancouver
+# Simon Fraser University, May 5-7, 2023 
+###### Room 7000, Harbour Centre, 515 W Hastings St, Vancouver
  
 
 
@@ -24,10 +25,8 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 ##### Chair: Arthur Robson, SFU
 
 
-1. ##### Strategic Evidence Disclosure in Networks and Equilibrium Discrimination [[PDF]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4305083)
-
-     [Leonie Baumann](https://sites.google.com/site/leoniebaumann/home) (McGill University), [Rohan Dutta](https://sites.google.com/site/rohandutta/)* (McGill University)
-
+1. ##### Dominance and Optimality [[PDF]](https://github.com/BabakSahragard/CETCprogram/blob/main/Draft7.pdf)
+      [Xienan Cheng](https://sites.google.com/view/xienan-cheng)(University of Michigan), [Tilman Borgers](http://www-personal.umich.edu/~tborgers/)*(University of Michigan)
 2. #####  Bayes = Blackwell, Almost [[PDF]](https://whitmeyerhome.files.wordpress.com/2023/03/bayes___blackwell_v18.pdf)
       [Mark Whitmeyer](https://sites.google.com/site/markwhitmeyer/)* (Arizona State University)
 
@@ -157,8 +156,9 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 ##### Chair: Li Hao, UBC
 1. ##### On Political Spectra [[PDF]](https://github.com/BabakSahragard/CETCprogram/blob/main/Condorcet_original.pdf)
       [Qinggong Wu](http://wqg.weebly.com/)* (Hong Kong University of Science and Technology) , [Xingye Wu](http://wuxy.weebly.com/) (Tsinghua University)
-2. ##### Dominance and Optimality [[PDF]](https://github.com/BabakSahragard/CETCprogram/blob/main/Draft7.pdf)
-      [Xienan Cheng](https://sites.google.com/view/xienan-cheng)(University of Michigan), [Tilman Borgers](http://www-personal.umich.edu/~tborgers/)*(University of Michigan)
+2. ##### Strategic Evidence Disclosure in Networks and Equilibrium Discrimination [[PDF]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4305083)
+[Leonie Baumann](https://sites.google.com/site/leoniebaumann/home) (McGill University), [Rohan Dutta](https://sites.google.com/site/rohandutta/)* (McGill University)
+
 
 
 
