@@ -135,7 +135,7 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
       [S. Nageeb Ali](https://sites.google.com/site/nageeb/) (Pennsylvania State University) , [B. Douglas Bernheim](https://bernheim.people.stanford.edu/) (Stanford University) , [Alexander W. Bloedel](https://sites.google.com/site/alexanderbloedel/home)* (UCLA) , [Silvia Console Battilana](https://www.auctionomics.com/dr-silvia-console-battilana) (Auctionomics)
 
 2. #####  Reputation Effects under Short Memories
-       [Harry PEI](https://sites.northwestern.edu/harrypei/research/)* (Northwestern University) 
+         [Harry PEI](https://sites.northwestern.edu/harrypei/research/)* (Northwestern University) 
 
 #### 4:15 pm – 4:30 pm
 * **Break**
