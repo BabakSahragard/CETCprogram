@@ -155,7 +155,7 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 #### Session L: 4:30 pm - 5:00 pm 
 ##### Chair: Li Hao, UBC
 1. ##### Assymetric information and the Liquidity Role of Assets [[PDF]](https://herrenbrueck.weebly.com/uploads/1/3/3/9/13395560/ghz-2022-asymmetric.pdf)
-  [Athanasios Geromichalos](https://economics.ucdavis.edu/people/athanasios-geromichalos) (UC Davis), [Lucas Herrenbrueck](https://herrenbrueck.weebly.com)*(Simon Fraser University), [Zijian Wang](https://www.wlu.ca/academics/faculties/lazaridis-school-of-business-and-economics/faculty-profiles/zijian-wang/)(Wilfrid Laurier University)
+     [Athanasios Geromichalos](https://economics.ucdavis.edu/people/athanasios-geromichalos) (UC Davis), [Lucas Herrenbrueck](https://herrenbrueck.weebly.com)*(Simon Fraser University), [Zijian Wang](https://www.wlu.ca/academics/faculties/lazaridis-school-of-business-and-economics/faculty-profiles/zijian-wang/)(Wilfrid Laurier University)
 
 
 
